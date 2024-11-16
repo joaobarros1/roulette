@@ -18,7 +18,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    gap: 1rem;
+    gap: 10rem;
 }
 .roulette-wheel {
     width: 300px;
